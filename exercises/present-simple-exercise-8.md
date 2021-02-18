@@ -124,3 +124,39 @@ Wrong: Because "does" it's used only with "he", "she" and "it".
 Answer: You don't smoke
 Why: Add "do" because they have the pronoun "you" and it's a negative phrase.
 ```
+
+## 11) (why / we / always get into trouble)?
+
+### Try 1
+
+```markdown
+Answer: why do we always get into trouble?
+Why: Add "do" because they have the pronoun "we" and it's an interrogative phrase.
+```
+
+## 12) (what/ they / usually cook)?
+
+### Try 1
+
+```markdown
+Answer: what do they usually cook?
+Why: Add "do" because they have the pronoun "they" and it's an interrogative phrase.
+```
+
+## 13) (what / we / need)?
+
+### Try 1
+
+```markdown
+Answer: what do we need?
+Why: Add "do" because they have the pronoun "we" and it's an interrogative phrase.
+```
+
+## 14) (they / not / win at tennis)
+
+### Try 1
+
+```markdown
+Answer: they don't win at tennis
+Why: Add "don't" because they have the pronoun "they" and it's a negative phrase.
+```
