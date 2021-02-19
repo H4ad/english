@@ -160,3 +160,39 @@ Why: Add "do" because they have the pronoun "we" and it's an interrogative phras
 Answer: they don't win at tennis
 Why: Add "don't" because they have the pronoun "they" and it's a negative phrase.
 ```
+
+## 15) (what / they / like to watch on TV)?
+
+### Try 1
+
+```markdown
+Answer: what do they like to watch on TV?
+Why: Add "do" because they have the pronoun "they" and it's an interrogative phrase.
+```
+
+## 16) (I / do my homework every night)
+
+### Try 1
+
+```markdown
+Answer: I do my homework every night
+Why: Do nothing because it's affirmative phrase and use the pronoun "I".
+```
+
+## 17) (why / she / swim every morning)?
+
+### Try 1
+
+```markdown
+Answer: why does she swim every morning?
+Why: Add "does" because they have pronoun "she" and it's an interrogative phrase.
+```
+
+## 18) (you / walk to the station every day)
+
+### Try 1
+
+```markdown
+Answer: you walk to the station every day
+Why: Do nothing because it's affirmative phrase and use the pronoun "you".
+```
