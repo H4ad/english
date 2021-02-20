@@ -11,4 +11,5 @@ My current teacher is Bruno Matos, and you can know more about him [here](https:
 Below, my current exercises:
 
 - Present Simple
-  - [Exercise 8](./exercises/present-simple-exercise-8.md)
+  - [Exercise 8](./exercises/simple-present-exercise-8.md)
+  - [Exercise 9](./exercises/simple-present-exercise-9.md)
