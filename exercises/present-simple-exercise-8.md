@@ -176,7 +176,7 @@ Why: Add "do" because they have the pronoun "they" and it's an interrogative phr
 
 ```markdown
 Answer: I do my homework every night
-Why: Do nothing because it's affirmative phrase and use the pronoun "I".
+Why: Do nothing because it's an affirmative phrase and they have the pronoun "I".
 ```
 
 ## 17) (why / she / swim every morning)?
@@ -185,7 +185,7 @@ Why: Do nothing because it's affirmative phrase and use the pronoun "I".
 
 ```markdown
 Answer: why does she swim every morning?
-Why: Add "does" because they have pronoun "she" and it's an interrogative phrase.
+Why: Add "does" because they have "she" pronoun and it's an interrogative phrase.
 ```
 
 ## 18) (you / walk to the station every day)
@@ -194,7 +194,7 @@ Why: Add "does" because they have pronoun "she" and it's an interrogative phrase
 
 ```markdown
 Answer: you walk to the station every day
-Why: Do nothing because it's affirmative phrase and use the pronoun "you".
+Why: Do nothing because it's an affirmative phrase and use the pronoun "you".
 ```
 
 ## 19) (he / teach in a school)?
@@ -203,7 +203,7 @@ Why: Do nothing because it's affirmative phrase and use the pronoun "you".
 
 ```markdown
 Answer: does he teach in a school?
-Why: Add "does" because they use "he" pronoun and it's a interrogative phrase.
+Why: Add "does" because they have "he" pronoun and it's an interrogative phrase.
 ```
 
 ## 20) (he / study English at a night class)
@@ -212,5 +212,5 @@ Why: Add "does" because they use "he" pronoun and it's a interrogative phrase.
 
 ```markdown
 Answer: he studies English at a night class
-Why: Add "s + verb" because they use "he" pronoun and it's a interrogative phrase.
+Why: Add "s + verb" because they have "he" pronoun and it's an interrogative phrase.
 ```
