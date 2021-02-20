@@ -124,3 +124,93 @@ Wrong: Because "does" it's used only with "he", "she" and "it".
 Answer: You don't smoke
 Why: Add "do" because they have the pronoun "you" and it's a negative phrase.
 ```
+
+## 11) (why / we / always get into trouble)?
+
+### Try 1
+
+```markdown
+Answer: why do we always get into trouble?
+Why: Add "do" because they have the pronoun "we" and it's an interrogative phrase.
+```
+
+## 12) (what/ they / usually cook)?
+
+### Try 1
+
+```markdown
+Answer: what do they usually cook?
+Why: Add "do" because they have the pronoun "they" and it's an interrogative phrase.
+```
+
+## 13) (what / we / need)?
+
+### Try 1
+
+```markdown
+Answer: what do we need?
+Why: Add "do" because they have the pronoun "we" and it's an interrogative phrase.
+```
+
+## 14) (they / not / win at tennis)
+
+### Try 1
+
+```markdown
+Answer: they don't win at tennis
+Why: Add "don't" because they have the pronoun "they" and it's a negative phrase.
+```
+
+## 15) (what / they / like to watch on TV)?
+
+### Try 1
+
+```markdown
+Answer: what do they like to watch on TV?
+Why: Add "do" because they have the pronoun "they" and it's an interrogative phrase.
+```
+
+## 16) (I / do my homework every night)
+
+### Try 1
+
+```markdown
+Answer: I do my homework every night
+Why: Do nothing because it's affirmative phrase and use the pronoun "I".
+```
+
+## 17) (why / she / swim every morning)?
+
+### Try 1
+
+```markdown
+Answer: why does she swim every morning?
+Why: Add "does" because they have pronoun "she" and it's an interrogative phrase.
+```
+
+## 18) (you / walk to the station every day)
+
+### Try 1
+
+```markdown
+Answer: you walk to the station every day
+Why: Do nothing because it's affirmative phrase and use the pronoun "you".
+```
+
+## 19) (he / teach in a school)?
+
+### Try 1
+
+```markdown
+Answer: does he teach in a school?
+Why: Add "does" because they use "he" pronoun and it's a interrogative phrase.
+```
+
+## 20) (he / study English at a night class)
+
+### Try 1
+
+```markdown
+Answer: he studies English at a night class
+Why: Add "s + verb" because they use "he" pronoun and it's a interrogative phrase.
+```
