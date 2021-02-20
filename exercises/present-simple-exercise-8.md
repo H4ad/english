@@ -196,3 +196,21 @@ Why: Add "does" because they have pronoun "she" and it's an interrogative phrase
 Answer: you walk to the station every day
 Why: Do nothing because it's affirmative phrase and use the pronoun "you".
 ```
+
+## 19) (he / teach in a school)?
+
+### Try 1
+
+```markdown
+Answer: does he teach in a school?
+Why: Add "does" because they use "he" pronoun and it's a interrogative phrase.
+```
+
+## 20) (he / study English at a night class)
+
+### Try 1
+
+```markdown
+Answer: he studies English at a night class
+Why: Add "s + verb" because they use "he" pronoun and it's a interrogative phrase.
+```
