@@ -84,3 +84,85 @@ Why: Add "do" because they have "you" pronoun and it's an interrogative phrase.
 Answer: she doesn't want to go to the cinema
 Why: Add "doesn't" because they have "she" pronoun and it's a negative phrase.
 ```
+
+## 10) (I / like trying new kinds of food)
+
+### Try 1
+
+```markdown
+Answer: I like trying new kinds of food
+Why: Do nothing because they have "I" pronoun and it's an affirmative phrase.
+```
+
+## 11) (David / want some coffee)?
+
+### Try 1
+
+```markdown
+Answer: David want some coffee?
+Why: Do nothing because they don't contain any pronoun. 
+```
+
+### Try 2
+
+```markdown
+Answer: Do David want some coffee?
+Why: Add "do" because they have "want=we" pronoun and it's an interrogative phrase.
+```
+
+### Try 3
+
+```markdown
+Answer: Does David want some coffee?
+Why: I get the hint on site but I think this is the answer because "David" represents "he" pronoun and it's an interrogative phrase.
+```
+
+## 12) (what / Lucy / do at the weekends)?
+
+### Try 1
+
+```markdown
+Answer: what does Lucy do at the weekends?
+Why: Add "does" because they have "Lucy=she" pronoun and it's an interrogative phrase.
+```
+
+## 13) (they / not / work late on Fridays)
+
+### Try 1
+
+```markdown
+Answer: they don't work late on Fridays
+Why: Add "don't" because they have "they" pronoun and it's a negative phrase.
+```
+
+## 14) (she / have three daughters)
+
+### Try 1
+
+```markdown
+Answer: she have's three daughters
+Why: Add "'s" because they have "she" pronoun and it's an affirmative phrase.
+```
+
+### Try 2
+
+```markdown
+Answer: she haves three daughters
+Why: Add "s" because they have "she" pronoun and it's an affirmative phrase.
+```
+
+### Try 3
+
+```markdown
+Answer: she has three daughters
+Why: I get the hint because I don't know how to transform "have" with "s + verb".
+```
+
+## 15) (you / own a car)?
+
+### Try 1
+
+```markdown
+Answer: do you own a car?
+Why: Add "do" because they have "you" pronoun and it's an interrogative phrase.
+```
