@@ -166,3 +166,48 @@ Why: I get the hint because I don't know how to transform "have" with "s + verb"
 Answer: do you own a car?
 Why: Add "do" because they have "you" pronoun and it's an interrogative phrase.
 ```
+
+## 16) (where / Alicia / work)?
+
+### Try 1
+
+```markdown
+Answer: where does Alicia work?
+Why: Add "does" because they have "Lucy=she" pronoun and it's an interrogative phrase.
+```
+
+## 17) (when / she / go to her Chinese class)?
+
+### Try 1
+
+```markdown
+Answer: when does she go to her Chinese class?
+Why: Add "does" because they have "she" pronoun and it's an interrogative phrase.
+```
+
+## 18) (I / not / believe you)
+
+### Try 1
+
+```markdown
+Answer: I don't believe you
+Why: Add "don't" because they have "I" pronoun and it's a negative phrase.
+```
+
+## 19) (she / think about her holidays often)
+
+### Try 1
+
+```markdown
+Answer: she thinks about her holidays often
+Why: Add "s + verb" because they have "she" pronoun and it's an affirmative phrase.
+```
+
+## 20) (you / like going to restaurants)?
+
+### Try 1
+
+```markdown
+Answer: do you like going to restaurants?
+Why: Add "do" because they have "you" pronoun and it's an interrogative phrase.
+```
