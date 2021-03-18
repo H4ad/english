@@ -7,7 +7,7 @@ Second Version: He doesn't like to sing with him.
 
 ```markdown
 First Version: Susan is studying everyday with Charlotte and Megan.
-Second Version: She is studying everyday with theirs friends.
+Second Version: She is studying everyday with their friends.
 ```
 
 ```markdown
