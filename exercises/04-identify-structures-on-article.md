@@ -14,8 +14,8 @@ Workers (s for multiple worker) have to stay for at least one month — and they
 
 The project is (is not "are" because of project is in singular form) being run by the government of Madeira and a group called StartUp Madeira.
 
-Gonçalo Hall is a remote work consultant helping (ing because they are doing something) to start the community. He (object pronoun) told CNN: "With many people leaving big cities (ies = more than one city) right now, we wanted a village in a smaller place where people can create deeper connections than in a city."
+Gonçalo Hall is a remote work consultant helping (ing because they are doing something) to start the community. He (pronoun) told CNN: "With many people leaving big cities (ies = more than one city) right now, we wanted a village in a smaller place where people can create deeper connections than in a city."
 
-Hall said (past of say) that more than 2,000 people from around the world had registered (ed for past) their (object pronoun) interest in the community. There is enough space for up to 100 workers to begin with, but there are plans to expand to other buildings (s = multiple) in the village and also to other parts of the island.
+Hall said (past of say) that more than 2,000 people from around the world had registered (had -ed for past perfect) their (possessive adjetive) interest in the community. There is enough space for up to 100 workers to begin with, but there are plans to expand to other buildings (s = multiple) in the village and also to other parts of the island.
 
-At the 2020 World Travel Awards, Madeira was voted Europe's ('s because it's not "top island of Europe") top island destination for the seventh time in eight years.
+At the 2020 World Travel Awards, Madeira was voted Europe's ('s because it's not "top island of Europe" - genitive case) top island destination for the seventh time in eight years.
