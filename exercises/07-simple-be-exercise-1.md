@@ -1,4 +1,4 @@
-# Simpel "Be" Mixed Exercise 1
+# Simple "Be" Mixed Exercise 1
 
 References:
 

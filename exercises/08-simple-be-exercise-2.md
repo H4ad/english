@@ -1,4 +1,4 @@
-# Simpel "Be" Mixed Exercise 2
+# Simple "Be" Mixed Exercise 2
 
 References:
 
@@ -30,7 +30,7 @@ Translation: Eles não estão em casa
 
 ```markdown
 Answer: when is the party?
-Why: Add "is" because of "Party" that are singular similar to cases like "he", "she".
+Why: Add "is" because of "Party" that are singular similar to cases like "it".
 Translation: Onde é a festa?
 ```
 
