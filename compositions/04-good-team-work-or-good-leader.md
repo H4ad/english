@@ -10,6 +10,9 @@ Otherwise, a presence of a good leader is important but not too much if the team
 
 You can argue that having both is the best option, an I agree, but if you have only one chance to make a choice: in one hand, you have a bad leader and a co-worker that you have a good relation, in other hand, you have a great leader but you need to deal with a bad co-worker that don't know nothing about what you need todo. You maybe can handle a bad leader but a bad co-worker is much hard to deal because you need to interact more with the co-worker than the leader.
 
+> Word Count: 205
+> Time: 19min
+
 ## My Opinion - Version 2 - After Watching the Video
 
 Reference: https://www.youtube.com/watch?v=lNeHfQBSebY
@@ -41,3 +44,4 @@ Indeed, having a good teamwork is helpful but your leader should know if the co-
 In conclusion, the key of successful of companies could be affected by many factors, including, but not limited to good teamwork and good leaders. The companies should priorize having good leaders because they are the person that could decide what is the future of the company and they could handle the issues with minimal damage for the company.
 
 > Word Count: 323
+> Time: 29min
