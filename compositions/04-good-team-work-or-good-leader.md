@@ -29,21 +29,21 @@ Good Teamwork
 Good Leader
 
 - Help you when you need to deal with client
-- Block too many issues in the root of cause to don't affect you
+- Block many issues in the root of cause so it doesn't affect you
 - Will organize the tasks better
 - Will guide you with more precision to accomplish the tasks
-- Could remove any task that are too hard because they know about business and have the power to change something
+- Could remove any task that are too hard because they know about business and have the power to change anything
 
 ### The Text
 
-The people have two views about what make companies successful. In one hand, the people believe that having good teamwork is the key of the successful, in other hand, others could put the success of the companies because they have a good leader. While having good teamwork is good for the company, I disagree that is the good teamwork that could guide the company to the success rather than having great leaders to guide the company.
+People have two views about what make companies successful. In one hand, people believe that having good teamwork is the key to be successful, on other hand, others could put the success of the companies in the fact they have a good leader. While having good teamwork is good for the company, I disagree that is the good teamwork that could guide the company to success rather than having great leaders to guide the company.
 
-When you get a project, you need to estimate correctly based on the business rules that the client tells to you and show to him what's the project's price. Having a leader that is not too prepared to handle this issues is too danger for the successful of the project and by the consequence, could affect the company. Of course, this is one tiny part of the entire management of the project and going more deeply, your leader need to have a good understanding about how to priorize the tasks to deliver more value to your client and block those tasks that are impossible to accomplish in the amount of time that you get from client.
+When you get a project, you need to estimate correctly based on the business rules that the client tell you and show him what is the project's price. Having a leader that is not prepared enough to handle this issue is too dangerous for the success of the project and by consequence, could affect the company. Of course, this is one tiny part of the entire management of the project and going more deeply, your leader must have a good understanding about how to prioritize the tasks to deliver more value to his/her(their) client and block those tasks that are impossible to accomplish in the amount of time that you get from the client.
 
-Indeed, having a good teamwork is helpful but your leader should know if the co-worker can handle the tasks or they could not, and if they failed to handle this, you could slow the deliver of the tasks, compromising the schedule. Furthermore, the leader can block features that are impossible todo because he knows about the business and knows his team rather than the team that doesn't have any power to choice what feature should made.
+Indeed, having a good teamwork is helpful but your leader should know if the co-worker can handle the tasks or they cannot, and if they fail to handle this, they could slow down the deliver of the tasks, compromising the schedule. Furthermore, the leader can block features that are impossible todo because he knows about the business and knows their team rather than the team that doesn't have any power to choose what feature should be made.
 
-In conclusion, the key of successful of companies could be affected by many factors, including, but not limited to good teamwork and good leaders. The companies should priorize having good leaders because they are the person that could decide what is the future of the company and they could handle the issues with minimal damage for the company.
+In conclusion, the key to success of companies could be affected by many factors, including, but not limited, to good teamwork and good leaders. The companies should prioritize having good leaders because they are the people that could decide what is the future of the company and they could handle the issues with minimal damage.
 
 > Word Count: 323
-> 
+>
 > Time: 29min
