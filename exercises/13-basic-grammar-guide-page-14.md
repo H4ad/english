@@ -5,37 +5,40 @@
 ### 1 - Eu não tenho nenhum brinquedo.
 
 ```markdown
-Result: I don't have any toy.
-Result: I have no toy.
+Result: I don't have any toys.
+Result: I have no toys.
 ```
 
 ### 2 – Eu quero um pouco de café, por favor.
 
 ```markdown
-Result: I want some coffe, please.
+Result: I want some coffee, please.
+Result: I would like some coffee, please.
+Result: I'd like some coffee, please. (short version)
 ```
 
 ### 3 – Ela quer algumas frutas no café da manhã.
 
 ```markdown
-Result: She want some fruits in breakfast.
+Result: She want some fruits for breakfast.
 ```
 
 ### 4 – Ele não quer nenhum dinheiro.
 
 ```markdown
-Result: He don't want any money.
-Result: He want no money.
+Result: He doesn't want any money.
+Result: He wants no money.
 ```
 
 ### 5 – Eles querem alguns cachorros?
 
 ```markdown
-Result: They want some dogs?
+Result: Do they want any dogs?
+Context: I don't wanna offer the dog, only ask if he wants any dogs.
 ```
 
 ### 6 – Nós queremos um pouco de açúcar.
 
 ```markdown
-Result: We want some coffe.
+Result: We want some sugar.
 ```
