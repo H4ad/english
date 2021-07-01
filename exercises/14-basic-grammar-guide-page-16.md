@@ -5,36 +5,36 @@
 ### 1 - She/work/office
 
 ```markdown
-Interrogative: Will she work in the office? (uncertain)
-Interrogative: She going to work in the office? (certain)
-Yes, she going to work in the office.
-No, she not going to work in the office.
+Interrogative: Will she work at the office? (uncertain)
+Interrogative: Is she going to work at the office? (certain)
+Yes, she is going to work at the office.
+No, she is not going to work at the office.
 ```
 
 ### 2 - You/give/cake/your mother
 
 ```markdown
 Interrogative: Will you give cake to your mother? (uncertain)
-Interrogative: You going to give cake to your mother? (certain)
-Yes, I going to give cake to my mother.
-No, I not going to give cake to my mother.
+Interrogative: Are you going to give cake to your mother? (certain)
+Yes, I am going to give cake to my mother.
+No, I am not going to give cake to my mother.
 ```
 
 ### 3 – They/see/the lake
 
 ```markdown
 Interrogative: Will they see the lake? (uncertain)
-Interrogative: They are going to see the lake? (certain)
-Yes, they going to see the lake.
-No, they not going to see the lake.
+Interrogative: Are they going to see the lake? (certain)
+Yes, they are going to see the lake.
+No, they are not going to see the lake.
 ```
 
 ### 4 – he/use/the car
 
 ```markdown
 Interrogative: Will he use the car? (uncertain)
-Interrogative: He is going to use the car? (certain)
-Yes, he going to use the car.
+Interrogative: Is he going to use the car? (certain)
+Yes, he is going to use the car.
 No, he is not going to use the car.
 
 ```
