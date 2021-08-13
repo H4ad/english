@@ -23,5 +23,5 @@ Result: The cruise is safer than the subway.
 ### 4 – A bicicleta é tão rápida quanto o trem
 
 ```markdown
-Result: The bicycle is as fast as train. 
+Result: The bicycle is as fast as the train. 
 ```
